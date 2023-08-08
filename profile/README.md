@@ -1,12 +1,19 @@
-## Hi there 👋
+# TechIMTGroup - Grupo de Projetos de Ciência da Computação
 
-<!--
+![Logo do TechIMTGroup](https://avatars.githubusercontent.com/u/133370622?s=96&v=4)
 
-**Here are some ideas to get you started:**
+Bem-vindo ao repositório do TechIMTGroup, o Grupo de Projetos de Ciência da Computação do Instituto Mauá de Tecnologia!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Sobre nós
+
+O TechIMTGroup é um grupo dedicado a impulsionar projetos e inovações na área de Ciência da Computação. Nosso objetivo é fornecer um espaço colaborativo para os estudantes de Ciência da Computação do Instituto Mauá de Tecnologia trabalharem juntos em projetos práticos e relevantes.
+
+## Objetivos
+
+- **Aprendizado Prático**: Proporcionamos aos alunos a oportunidade de aplicar o conhecimento teórico em projetos concretos, desenvolvendo habilidades essenciais para suas carreiras.
+
+- **Colaboração**: Incentivamos a colaboração entre os membros, promovendo a troca de ideias e a construção conjunta de soluções tecnológicas.
+
+- **Inovação**: Buscamos fomentar a criatividade e a inovação, permitindo que os membros proponham e desenvolvam projetos que possam impactar positivamente a sociedade.
+
+*Este documento está sujeito a atualizações. Última atualização: 08/08/2023*.
